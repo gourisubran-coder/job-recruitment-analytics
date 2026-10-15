@@ -153,6 +153,29 @@ The project includes five main analytical dashboard pages and an additional comp
 - Drill-through navigation for company-level details.
 - Multiple visualizations, including KPI cards, bar charts, column charts, donut charts, treemaps, funnel charts, line charts, and scatter plots.
 
+# 📊 Job Recruitment Analytics & Hiring Insights Dashboard
+
+## 📸 Power BI Dashboard Screenshots
+
+### 1. Executive Overview
+![Executive Overview](SCREENSHOTS/Executive-overview.png)
+
+### 2. Company & Job Analysis
+![Company & Job Analysis](SCREENSHOTS/Company-job-analysis.png)
+
+### 3. Company Details — Drill-Through
+![Company Details Drill-Through](SCREENSHOTS/Drill-Through.png)
+
+### 4. Salary & Offers
+![Salary & Offers](SCREENSHOTS/Salary-offers.png)
+
+### 5. Candidate & Skills Analysis
+![Candidate & Skills Analysis](SCREENSHOTS/Candidate-skills.png)
+
+### 6. Recruiter & Interview Performance
+![Recruiter & Interview Performance](SCREENSHOTS/Recruiter-interviews.png)
+
+
 
 ## 👩‍💻 Author
 
